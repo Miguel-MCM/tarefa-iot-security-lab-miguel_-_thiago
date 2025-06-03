@@ -1,5 +1,5 @@
 // Inclusão do arquivo de cabeçalho que contém a declaração da função
-#include "include/xor_cipher.h"
+#include "xor_cipher.h"
 
 /**
  * Função para aplicar cifra XOR (criptografia/decifração)

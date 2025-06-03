@@ -66,7 +66,7 @@ target_link_libraries(iot_security_lab
 
 # Add the standard include files to the build
 target_include_directories(iot_security_lab PRIVATE
-        ${CMAKE_CURRENT_LIST_DIR}
+        ${CMAKE_CURRENT_LIST_DIR}/include
 )
 
 # Add any user requested libraries
